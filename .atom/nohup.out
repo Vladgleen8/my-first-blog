@@ -1,0 +1,20 @@
+bash: cannot set terminal process group (-1): Inappropriate ioctl for device
+bash: no job control in this shell
+Gtk-Message: 11:42:23.240: GtkDialog mapped without a transient parent. This is discouraged.
+Cannot read property 'map' of undefined
+TypeError: Cannot read property 'map' of undefined
+    at promptForPath (/usr/share/atom/resources/app.asar/src/main-process/atom-application.js:1974:25)
+    at Function.wrappedCallback (/usr/share/atom/resources/electron.asar/browser/api/dialog.js:130:57)
+
+Gtk-Message: 11:45:53.595: GtkDialog mapped without a transient parent. This is discouraged.
+Gtk-Message: 12:38:22.691: GtkDialog mapped without a transient parent. This is discouraged.
+Gtk-Message: 12:38:26.986: GtkDialog mapped without a transient parent. This is discouraged.
+Gtk-Message: 12:38:30.287: GtkDialog mapped without a transient parent. This is discouraged.
+Gtk-Message: 12:38:36.479: GtkDialog mapped without a transient parent. This is discouraged.
+Gtk-Message: 12:39:15.927: GtkDialog mapped without a transient parent. This is discouraged.
+Gtk-Message: 12:40:03.469: GtkDialog mapped without a transient parent. This is discouraged.
+bash: cannot set terminal process group (-1): Inappropriate ioctl for device
+bash: no job control in this shell
+Gtk-Message: 12:41:05.004: GtkDialog mapped without a transient parent. This is discouraged.
+Gtk-Message: 12:45:28.348: GtkDialog mapped without a transient parent. This is discouraged.
+Gtk-Message: 15:53:05.559: GtkDialog mapped without a transient parent. This is discouraged.

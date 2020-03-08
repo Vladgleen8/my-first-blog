@@ -1,0 +1,566 @@
+/* $Id: system.css,v 1.48 2008/01/09 09:56:39 goba Exp $ */
+
+/*
+** HTML elements
+*/
+body.drag {
+  cursor: move;
+}
+th.active img {
+  display: inline;
+}
+tr.even, tr.odd {
+  background-color: #eee;
+  border-bottom: 1px solid #ccc;
+  padding: 0.1em 0.6em;
+}
+tr.drag {
+  background-color: #fffff0;
+}
+tr.drag-previous {
+  background-color: #ffd;
+}
+td.active {
+  background-color: #ddd;
+}
+td.checkbox, th.checkbox {
+  text-align: center;
+}
+tbody {
+  border-top: 1px solid #ccc;
+}
+tbody th {
+  border-bottom: 1px solid #ccc;
+}
+thead th {
+  text-align: left; /* LTR */
+  padding-right: 1em; /* LTR */
+  border-bottom: 3px solid #ccc;
+}
+
+/*
+** Other common styles
+*/
+.breadcrumb {
+  padding-bottom: .5em
+}
+div.indentation {
+  width: 20px;
+  height: 1.7em;
+  margin: -0.4em 0.2em -0.4em -0.4em; /* LTR */
+  padding: 0.42em 0 0.42em 0.6em; /* LTR */
+  float: left; /* LTR */
+}
+div.tree-child {
+  background: url(../../misc/tree.png) no-repeat 11px center; /* LTR */
+}
+div.tree-child-last {
+  background: url(../../misc/tree-bottom.png) no-repeat 11px center; /* LTR */
+}
+div.tree-child-horizontal {
+  background: url(../../misc/tree.png) no-repeat -11px center;
+}
+.error {
+  color: #e55;
+}
+div.error {
+  border: 1px solid #d77;
+}
+div.error, tr.error {
+  background: #fcc;
+  color: #200;
+  padding: 2px;
+}
+.warning {
+  color: #e09010;
+}
+div.warning {
+  border: 1px solid #f0c020;
+}
+div.warning, tr.warning {
+  background: #ffd;
+  color: #220;
+  padding: 2px;
+}
+.ok {
+  color: #008000;
+}
+div.ok {
+  border: 1px solid #00aa00;
+}
+div.ok, tr.ok {
+  background: #dfd;
+  color: #020;
+  padding: 2px;
+}
+.item-list .icon {
+  color: #555;
+  float: right; /* LTR */
+  padding-left: 0.25em; /* LTR */
+  clear: right; /* LTR */
+}
+.item-list .title {
+  font-weight: bold;
+}
+.item-list ul {
+  margin: 0 0 0.75em 0;
+  padding: 0;
+}
+.item-list ul li {
+  margin: 0 0 0.25em 1.5em; /* LTR */
+  padding: 0;
+  list-style: disc;
+}
+ol.task-list li.active {
+  font-weight: bold;
+}
+.form-item {
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+tr.odd .form-item, tr.even .form-item {
+  margin-top: 0;
+  margin-bottom: 0;
+  white-space: nowrap;
+}
+tr.merge-down, tr.merge-down td, tr.merge-down th {
+  border-bottom-width: 0 !important;
+}
+tr.merge-up, tr.merge-up td, tr.merge-up th {
+  border-top-width: 0 !important;
+}
+.form-item input.error, .form-item textarea.error, .form-item select.error {
+  border: 2px solid red;
+}
+.form-item .description {
+  font-size: 0.85em;
+}
+.form-item label {
+  display: block;
+  font-weight: bold;
+}
+.form-item label.option {
+  display: inline;
+  font-weight: normal;
+}
+.form-checkboxes, .form-radios {
+  margin: 1em 0;
+}
+.form-checkboxes .form-item, .form-radios .form-item {
+  margin-top: 0.4em;
+  margin-bottom: 0.4em;
+}
+.marker, .form-required {
+  color: #f00;
+}
+.more-link {
+  text-align: right; /* LTR */
+}
+.more-help-link {
+  font-size: 0.85em;
+  text-align: right; /* LTR */
+}
+.nowrap {
+  white-space: nowrap;
+}
+.item-list .pager {
+  clear: both;
+  text-align: center;
+}
+.item-list .pager li {
+  background-image:none;
+  display:inline;
+  list-style-type:none;
+  padding: 0.5em;
+}
+.pager-current {
+  font-weight:bold;
+}
+.tips {
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-top: 0;
+  padding-bottom: 0;
+  font-size: 0.9em;
+}
+dl.multiselect dd.b, dl.multiselect dd.b .form-item, dl.multiselect dd.b select {
+  font-family: inherit;
+  font-size: inherit;
+  width: 14em;
+}
+dl.multiselect dd.a, dl.multiselect dd.a .form-item {
+  width: 8em;
+}
+dl.multiselect dt, dl.multiselect dd {
+  float: left; /* LTR */
+  line-height: 1.75em;
+  padding: 0;
+  margin: 0 1em 0 0; /* LTR */
+}
+dl.multiselect .form-item {
+  height: 1.75em;
+  margin: 0;
+}
+
+/*
+** Inline items (need to override above)
+*/
+.container-inline div, .container-inline label {
+  display: inline;
+}
+
+/*
+** Tab navigation
+*/
+ul.primary {
+  border-collapse: collapse;
+  padding: 0 0 0 1em; /* LTR */
+  white-space: nowrap;
+  list-style: none;
+  margin: 5px;
+  height: auto;
+  line-height: normal;
+  border-bottom: 1px solid #bbb;
+}
+ul.primary li {
+  display: inline;
+}
+ul.primary li a {
+  background-color: #ddd;
+  border-color: #bbb;
+  border-width: 1px;
+  border-style: solid solid none solid;
+  height: auto;
+  margin-right: 0.5em; /* LTR */
+  padding: 0 1em;
+  text-decoration: none;
+}
+ul.primary li.active a {
+  background-color: #fff;
+  border: 1px solid #bbb;
+  border-bottom: #fff 1px solid;
+}
+ul.primary li a:hover {
+  background-color: #eee;
+  border-color: #ccc;
+  border-bottom-color: #eee;
+}
+ul.secondary {
+  border-bottom: 1px solid #bbb;
+  padding: 0.5em 1em;
+  margin: 5px;
+}
+ul.secondary li {
+  display: inline;
+  padding: 0 1em;
+  border-right: 1px solid #ccc; /* LTR */
+}
+ul.secondary a {
+  padding: 0;
+  text-decoration: none;
+}
+ul.secondary a.active {
+  border-bottom: 4px solid #999;
+}
+
+/*
+** Autocomplete styles
+*/
+/* Suggestion list */
+#autocomplete {
+  position: absolute;
+  border: 1px solid;
+  overflow: hidden;
+  z-index: 100;
+}
+#autocomplete ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+#autocomplete li {
+  background: #fff;
+  color: #000;
+  white-space: pre;
+  cursor: default;
+}
+#autocomplete li.selected {
+  background: #0072b9;
+  color: #fff;
+}
+/* Animated throbber */
+html.js input.form-autocomplete {
+  background-image: url(../../misc/throbber.gif);
+  background-repeat: no-repeat;
+  background-position: 100% 2px; /* LTR */
+}
+html.js input.throbbing {
+  background-position: 100% -18px; /* LTR */
+}
+
+/*
+** Collapsing fieldsets
+*/
+html.js fieldset.collapsed {
+  border-bottom-width: 0;
+  border-left-width: 0;
+  border-right-width: 0;
+  margin-bottom: 0;
+  height: 1em;
+}
+html.js fieldset.collapsed * {
+  display: none;
+}
+html.js fieldset.collapsed legend {
+  display: block;
+}
+html.js fieldset.collapsible legend a {
+  padding-left: 15px; /* LTR */
+  background: url(../../misc/menu-expanded.png) 5px 75% no-repeat; /* LTR */
+}
+html.js fieldset.collapsed legend a {
+  background-image: url(../../misc/menu-collapsed.png); /* LTR */
+  background-position: 5px 50%; /* LTR */
+}
+/* Note: IE-only fix due to '* html' (breaks Konqueror otherwise). */
+* html.js fieldset.collapsed legend,
+* html.js fieldset.collapsed legend *,
+* html.js fieldset.collapsed table * {
+  display: inline;
+}
+/* For Safari 2 to prevent collapsible fieldsets containing tables from dissapearing due to tableheader.js. */
+html.js fieldset.collapsible {
+  position: relative;
+}
+html.js fieldset.collapsible legend a {
+  display: block;
+}
+/* Avoid jumping around due to margins collapsing into collapsible fieldset border */
+html.js fieldset.collapsible .fieldset-wrapper {
+  overflow: auto;
+}
+
+/*
+** Resizable text areas
+*/
+.resizable-textarea {
+  width: 95%;
+}
+.resizable-textarea .grippie {
+  height: 9px;
+  overflow: hidden;
+  background: #eee url(../../misc/grippie.png) no-repeat center 2px;
+  border: 1px solid #ddd;
+  border-top-width: 0;
+  cursor: s-resize;
+}
+html.js .resizable-textarea textarea {
+  margin-bottom: 0;
+  width: 100%;
+  display: block;
+}
+
+/*
+** Table drag and drop.
+*/
+.draggable a.tabledrag-handle {
+  cursor: move;
+  float: left; /* LTR */
+  height: 1.7em;
+  margin: -0.4em 0 -0.4em -0.5em; /* LTR */
+  padding: 0.42em 1.5em 0.42em 0.5em; /* LTR */
+  text-decoration: none;
+}
+a.tabledrag-handle:hover {
+  text-decoration: none;
+}
+a.tabledrag-handle .handle {
+  margin-top: 4px;
+  height: 13px;
+  width: 13px;
+  background: url(../../misc/draggable.png) no-repeat 0 0;
+}
+a.tabledrag-handle-hover .handle {
+  background-position: 0 -20px;
+}
+
+/*
+** Teaser splitter
+*/
+.joined + .grippie {
+  height: 5px;
+  background-position: center 1px;
+  margin-bottom: -2px;
+}
+/* Keeps inner content contained in Opera 9. */
+.teaser-checkbox {
+  padding-top: 1px;
+}
+div.teaser-button-wrapper {
+  float: right; /* LTR */
+  padding-right: 5%; /* LTR */
+  margin: 0;
+}
+.teaser-checkbox div.form-item {
+  float: right; /* LTR */
+  margin: 0 5% 0 0; /* LTR */
+  padding: 0;
+}
+textarea.teaser {
+  display: none;
+}
+html.js .no-js {
+  display: none;
+}
+
+/*
+** Progressbar styles
+*/
+.progress {
+  font-weight: bold;
+}
+.progress .bar {
+  background: #fff url(../../misc/progress.gif);
+  border: 1px solid #00375a;
+  height: 1.5em;
+  margin: 0 0.2em;
+}
+.progress .filled {
+  background: #0072b9;
+  height: 1em;
+  border-bottom: 0.5em solid #004a73;
+  width: 0%;
+}
+.progress .percentage {
+  float: right; /* LTR */
+}
+.progress-disabled {
+  float: left; /* LTR */
+}
+.ahah-progress {
+  float: left; /* LTR */
+}
+.ahah-progress .throbber {
+  width: 15px;
+  height: 15px;
+  margin: 2px;
+  background: transparent url(../../misc/throbber.gif) no-repeat 0px -18px;
+  float: left; /* LTR */
+}
+tr .ahah-progress .throbber {
+  margin: 0 2px;
+}
+.ahah-progress-bar {
+  width: 16em;
+}
+
+/*
+** Formatting for welcome page
+*/
+#first-time strong {
+  display: block;
+  padding: 1.5em 0 .5em;
+}
+
+/*
+** To be used with tableselect.js
+*/
+tr.selected td {
+  background: #ffc;
+}
+
+/*
+** Floating header for tableheader.js
+*/
+table.sticky-header {
+  margin-top: 0;
+  background: #fff;
+}
+
+/*
+** Installation clean URLs
+*/
+#clean-url.install {
+  display: none;
+}
+
+/*
+** For anything you want to hide on page load when JS is enabled, so
+** that you can use the JS to control visibility and avoid flicker.
+*/
+html.js .js-hide {
+  display: none;
+}
+
+/*
+** Styles for the system modules page (admin/build/modules)
+*/
+#system-modules div.incompatible {
+  font-weight: bold;
+}
+
+/*
+** Styles for the system themes page (admin/build/themes)
+*/
+#system-themes-form div.incompatible {
+  font-weight: bold;
+}
+
+/*
+** Password strength indicator
+*/
+span.password-strength {
+  visibility: hidden;
+}
+input.password-field {
+  margin-right: 10px; /* LTR */
+}
+div.password-description {
+  padding: 0 2px;
+  margin: 4px 0 0 0;
+  font-size: 0.85em;
+  max-width: 500px;
+}
+div.password-description ul {
+  margin-bottom: 0;
+}
+.password-parent {
+  margin: 0 0 0 0;
+}
+/*
+** Password confirmation checker
+*/
+input.password-confirm {
+  margin-right: 10px; /* LTR */
+}
+.confirm-parent {
+  margin: 5px 0 0 0;
+}
+span.password-confirm {
+  visibility: hidden;
+}
+span.password-confirm span {
+  font-weight: normal;
+}
+:≈P|      ^d£≠^d£≠AnêÅq0•Û   7    :https://linuxcenter.kz/modules/system/system0cc1.css?a necko:classified 1 strongly-framed 1 security-info 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 request-method GET response-head HTTP/1.1 200 OK
+Server: nginx
+Date: Sun, 08 Mar 2020 07:46:59 GMT
+Content-Type: text/css
+Content-Length: 10564
+Last-Modified: Fri, 02 Mar 2018 02:53:31 GMT
+ETag: "5a98bcab-2944"
+Expires: Thu, 31 Dec 2037 23:55:55 GMT
+Cache-Control: max-age=315360000
+Accept-Ranges: bytes
+ original-response-headers Server: nginx
+Date: Sun, 08 Mar 2020 07:46:59 GMT
+Content-Type: text/css
+Content-Length: 10564
+Last-Modified: Fri, 02 Mar 2018 02:53:31 GMT
+Connection: keep-alive
+Keep-Alive: timeout=60
+ETag: "5a98bcab-2944"
+Expires: Thu, 31 Dec 2037 23:55:55 GMT
+Cache-Control: max-age=315360000
+Accept-Ranges: bytes
+ ctid 5 eTLD1Access 1;0;1233763197, uncompressed-len 0 net-response-time-onstart 144 net-response-time-onstop 145   )D

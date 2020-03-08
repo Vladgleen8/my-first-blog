@@ -1,0 +1,12 @@
+Checking if flatpak and libflatpak are installed
+Updating flatpaks
+Looking for updates...
+
+Checking for theme changes
+Looking for theme org.freedesktop.Platform.Icontheme.Mint-Y in flathub
+Looking for theme org.gtk.Gtk3theme.Mint-Y in flathub
+Found theme ref 'runtime/org.gtk.Gtk3theme.Mint-Y/x86_64/3.22' in remote flathub
+Installing new theme package(s) to match system themes
+Skipping: org.gtk.Gtk3theme.Mint-Y/x86_64/3.22 is already installed
+
+Done

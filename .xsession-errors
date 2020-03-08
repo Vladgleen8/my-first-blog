@@ -1,0 +1,236 @@
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/vladmed/.Xauthority
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting LC_MEASUREMENT=ru_RU.UTF-8
+dbus-update-activation-environment: setting LC_PAPER=ru_RU.UTF-8
+dbus-update-activation-environment: setting LC_MONETARY=ru_RU.UTF-8
+dbus-update-activation-environment: setting LANG=en_US.UTF-8
+dbus-update-activation-environment: setting GDM_LANG=en_US
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting MANDATORY_PATH=/usr/share/gconf/cinnamon.mandatory.path
+dbus-update-activation-environment: setting LC_NAME=ru_RU.UTF-8
+dbus-update-activation-environment: setting XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/vladmed
+dbus-update-activation-environment: setting USER=vladmed
+dbus-update-activation-environment: setting DESKTOP_SESSION=cinnamon
+dbus-update-activation-environment: setting DEFAULTS_PATH=/usr/share/gconf/cinnamon.default.path
+dbus-update-activation-environment: setting PWD=/home/vladmed
+dbus-update-activation-environment: setting HOME=/home/vladmed
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/cinnamon:/usr/share/gnome:/home/vladmed/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share
+dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=cinnamon
+dbus-update-activation-environment: setting LC_ADDRESS=ru_RU.UTF-8
+dbus-update-activation-environment: setting LC_NUMERIC=ru_RU.UTF-8
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+dbus-update-activation-environment: setting IM_CONFIG_PHASE=1
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting SHLVL=1
+dbus-update-activation-environment: setting LANGUAGE=en_US
+dbus-update-activation-environment: setting LC_TELEPHONE=ru_RU.UTF-8
+dbus-update-activation-environment: setting GDMSESSION=cinnamon
+dbus-update-activation-environment: setting LOGNAME=vladmed
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1000
+dbus-update-activation-environment: setting XAUTHORITY=/home/vladmed/.Xauthority
+dbus-update-activation-environment: setting XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0
+dbus-update-activation-environment: setting XDG_CONFIG_DIRS=/etc/xdg/xdg-cinnamon:/etc/xdg
+dbus-update-activation-environment: setting PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games
+dbus-update-activation-environment: setting LC_IDENTIFICATION=ru_RU.UTF-8
+dbus-update-activation-environment: setting _=/usr/bin/dbus-update-activation-environment
+** Message: 10:14:34.980: couldn't access control socket: /run/user/1000/keyring/control: No such file or directory
+** Message: 10:14:34.981: couldn't access control socket: /run/user/1000/keyring/control: No such file or directory
+** Message: 10:14:34.982: couldn't access control socket: /run/user/1000/keyring/control: No such file or directory
+[cinnamon-settings-daemon-smartcard] Failed to start: no suitable smartcard driver could be found
+
+(csd-mouse:1118): Gdk-CRITICAL **: 10:14:35.228: gdk_error_trap_pop_internal: assertion 'trap != NULL' failed
+
+(csd-mouse:1118): Gdk-CRITICAL **: 10:14:35.228: gdk_error_trap_pop_internal: assertion 'trap != NULL' failed
+
+(csd-mouse:1118): Gdk-CRITICAL **: 10:14:35.228: gdk_error_trap_pop_internal: assertion 'trap != NULL' failed
+
+(csd-mouse:1118): Gdk-CRITICAL **: 10:14:35.229: gdk_error_trap_pop_internal: assertion 'trap != NULL' failed
+
+(csd-mouse:1118): Gdk-CRITICAL **: 10:14:35.230: gdk_error_trap_pop_internal: assertion 'trap != NULL' failed
+
+(csd-mouse:1118): Gdk-CRITICAL **: 10:14:35.230: gdk_error_trap_pop_internal: assertion 'trap != NULL' failed
+
+(csd-mouse:1118): Gdk-CRITICAL **: 10:14:35.230: gdk_error_trap_pop_internal: assertion 'trap != NULL' failed
+
+(csd-mouse:1118): Gdk-CRITICAL **: 10:14:35.230: gdk_error_trap_pop_internal: assertion 'trap != NULL' failed
+
+(csd-mouse:1118): Gdk-CRITICAL **: 10:14:35.230: gdk_error_trap_pop_internal: assertion 'trap != NULL' failed
+
+(csd-mouse:1118): Gdk-CRITICAL **: 10:14:35.236: gdk_error_trap_pop_internal: assertion 'trap != NULL' failed
+
+(csd-mouse:1118): Gdk-CRITICAL **: 10:14:35.248: gdk_error_trap_pop_internal: assertion 'trap != NULL' failed
+
+(csd-mouse:1118): Gdk-CRITICAL **: 10:14:35.248: gdk_error_trap_pop_internal: assertion 'trap != NULL' failed
+
+(csd-mouse:1118): Gdk-CRITICAL **: 10:14:35.248: gdk_error_trap_pop_internal: assertion 'trap != NULL' failed
+
+(csd-mouse:1118): Gdk-CRITICAL **: 10:14:35.249: gdk_error_trap_pop_internal: assertion 'trap != NULL' failed
+
+(csd-mouse:1118): Gdk-CRITICAL **: 10:14:35.249: gdk_error_trap_pop_internal: assertion 'trap != NULL' failed
+
+(csd-mouse:1118): Gdk-CRITICAL **: 10:14:35.249: gdk_error_trap_pop_internal: assertion 'trap != NULL' failed
+
+(csd-mouse:1118): Gdk-CRITICAL **: 10:14:35.249: gdk_error_trap_pop_internal: assertion 'trap != NULL' failed
+
+(csd-mouse:1118): Gdk-CRITICAL **: 10:14:35.253: gdk_error_trap_pop_internal: assertion 'trap != NULL' failed
+[cinnamon-settings-daemon-smartcard] Failed to start: no suitable smartcard driver could be found
+Clutter-Message: 10:14:37.352: Sync method: PRESENTATION TIME
+
+(nm-applet:1330): Gtk-WARNING **: 10:14:37.521: Can't set a parent on widget which has a parent
+Cjs-Message: 10:14:37.639: JS LOG: About to start Cinnamon
+** Message: 10:14:37.659: nemo-desktop: session is cinnamon, establishing proxy
+Cjs-Message: 10:14:37.686: JS LOG: [LookingGlass/info] Cinnamon.AppSystem.get_default() started in 44 ms
+Cjs-Message: 10:14:37.692: JS LOG: [LookingGlass/info] loading user theme: /usr/share/themes/Mint-Y-Dark/cinnamon/cinnamon.css
+Cjs-Message: 10:14:37.709: JS LOG: [LookingGlass/info] added icon directory: /usr/share/themes/Mint-Y-Dark/cinnamon
+Cjs-Message: 10:14:37.836: JS LOG: [LookingGlass/info] PlacesManager: Updating devices
+Cjs-Message: 10:14:37.848: JS LOG: [LookingGlass/info] loaded at Sun Mar 08 2020 10:14:37 GMT+0300 (MSK)
+Cjs-Message: 10:14:37.848: JS LOG: Cinnamon started at Sun Mar 08 2020 10:14:37 GMT+0300 (MSK)
+Cjs-Message: 10:14:37.873: JS LOG: [LookingGlass/info] ExtensionSystem started in 0 ms
+Cjs-Message: 10:14:37.873: JS LOG: [LookingGlass/info] DeskletManager started in 0 ms
+Cjs-Message: 10:14:37.873: JS LOG: [LookingGlass/info] SearchProviderManager started in 0 ms
+openGL version 3.1 detected (GL3 Cogl Driver)
+Cjs-Message: 10:14:38.007: JS LOG: [LookingGlass/info] Loaded applet show-desktop@cinnamon.org in 44 ms
+Cjs-Message: 10:14:38.018: JS LOG: [LookingGlass/info] Loaded applet removable-drives@cinnamon.org in 12 ms
+Cjs-Message: 10:14:38.063: JS LOG: [LookingGlass/info] Loaded applet calendar@cinnamon.org in 44 ms
+St-Message: 10:14:38.069: cogl npot texture sizes SUPPORTED
+Cjs-Message: 10:14:38.076: JS LOG: [LookingGlass/info] Role locked: tray
+Cjs-Message: 10:14:38.079: JS LOG: [LookingGlass/info] Loaded applet systray@cinnamon.org in 16 ms
+Cjs-Message: 10:14:38.091: JS LOG: [LookingGlass/info] Role locked: notifications
+Cjs-Message: 10:14:38.101: JS LOG: [LookingGlass/info] Loaded applet notifications@cinnamon.org in 22 ms
+Cjs-Message: 10:14:38.121: JS LOG: [LookingGlass/info] Loaded applet printers@cinnamon.org in 20 ms
+Cjs-Message: 10:14:38.146: JS LOG: [LookingGlass/info] Loaded applet keyboard@cinnamon.org in 26 ms
+Cjs-Message: 10:14:38.195: JS LOG: [LookingGlass/info] Loaded applet power@cinnamon.org in 48 ms
+Cjs-Message: 10:14:38.209: JS LOG: [LookingGlass/info] Role locked: panellauncher
+Cjs-Message: 10:14:38.226: JS LOG: [LookingGlass/info] Loaded applet grouped-window-list@cinnamon.org in 30 ms
+
+(csd-power:1128): power-plugin-CRITICAL **: 10:14:38.279: abs_to_percentage: assertion 'max > min' failed
+Cjs-Message: 10:14:38.330: JS LOG: [LookingGlass/info] Loaded applet sound@cinnamon.org in 104 ms
+Cjs-Message: 10:14:38.369: JS LOG: [LookingGlass/info] Loaded applet network@cinnamon.org in 38 ms
+Cjs-Message: 10:14:38.580: JS LOG: [LookingGlass/info] Loaded applet menu@cinnamon.org in 212 ms
+Cjs-Message: 10:14:38.581: JS LOG: [LookingGlass/info] AppletManager started in 732 ms
+Cjs-Message: 10:14:38.584: JS LOG: [LookingGlass/info] Cinnamon took 946 ms to start
+Cjs-Message: 10:14:38.608: JS LOG: Unknown network device type, is 14
+Cjs-Message: 10:14:38.936: JS LOG: [LookingGlass/info] Hiding systray: network
+/usr/share/cinnamon-screensaver/cinnamon-screensaver-main.py:86: Warning: g_base64_encode_step: assertion 'in != NULL' failed
+  css = provider.to_string()
+Cjs-Message: 10:14:57.814: JS LOG: [LookingGlass/info] Adding systray: mintupdate.py (24x24px)
+Cjs-Message: 10:14:57.815: JS LOG: [LookingGlass/info] Resized mintupdate.py with normalized size (24x24px)
+Cjs-Message: 10:15:03.074: JS LOG: [LookingGlass/info] Adding systray: mintupdate.py (24x24px)
+Cjs-Message: 10:15:03.075: JS LOG: [LookingGlass/info] Resized mintupdate.py with normalized size (24x24px)
+Gtk-Message: 10:15:16.677: GtkDialog mapped without a transient parent. This is discouraged.
+Cinnamon warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x3800003 (Authentica)
+Cjs-Message: 10:15:32.973: JS LOG: [LookingGlass/info] Adding systray: mintupdate.py (24x24px)
+Cjs-Message: 10:15:32.973: JS LOG: [LookingGlass/info] Resized mintupdate.py with normalized size (24x24px)
+Gtk-Message: 10:16:16.020: GtkDialog mapped without a transient parent. This is discouraged.
+Gtk-Message: 10:17:56.369: GtkDialog mapped without a transient parent. This is discouraged.
+Cjs-Message: 10:24:28.929: JS LOG: [LookingGlass/info] PlacesManager: Updating devices
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590030,name=PHttpChannel::Msg_SetPriority) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x37011B,name=PContent::Msg_ReportContentBlockingLog) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x370135,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+Cinnamon warning: last_focus_time (1001140) is greater than comparison timestamp (1001139).  This most likely represents a buggy client sending inaccurate timestamps in messages such as _NET_ACTIVE_WINDOW.  Trying to work around...
+Cinnamon warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x6600007 (Archive Ma)
+Cinnamon warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x6600007 (pycharm-co)
+Cjs-Message: 10:33:14.512: JS LOG: [LookingGlass/info] PlacesManager: Updating devices
+Cjs-Message: 10:33:32.951: JS LOG: [LookingGlass/info] PlacesManager: Updating devices
+Cjs-Message: 10:33:48.307: JS LOG: [LookingGlass/info] PlacesManager: Updating devices
+Cjs-Message: 10:33:55.907: JS LOG: [LookingGlass/info] PlacesManager: Updating devices
+Cinnamon warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x66029cd (Archive Ma)
+Cinnamon warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x66029cd (pycharm-co)
+Nemo-Share-Message: 10:34:43.115: Called "net usershare info" but it failed: 'net usershare' returned error 255: mkdir failed on directory /var/run/samba/msg.lock: Permission denied
+net usershare: cannot open usershare directory /var/lib/samba/usershares. Error No such file or directory
+Please ask your system administrator to enable user sharing.
+
+Cjs-Message: 10:34:45.951: JS LOG: [LookingGlass/info] PlacesManager: Updating devices
+Cjs-Message: 10:35:07.427: JS LOG: [LookingGlass/info] PlacesManager: Updating devices
+Gtk-Message: 10:35:59.969: GtkDialog mapped without a transient parent. This is discouraged.
+Cjs-Message: 10:36:38.307: JS LOG: [LookingGlass/info] PlacesManager: Updating devices
+Couldn't get disk full info for: Error getting filesystem info for /media/vladmed/Зарезервировано системой: No such file or directory
+Cjs-Message: 10:42:28.032: JS LOG: [LookingGlass/info] PlacesManager: Updating devices
+Cjs-Message: 10:43:45.463: JS LOG: [LookingGlass/info] Adding systray: mintupdate.py (24x24px)
+Cjs-Message: 10:43:45.464: JS LOG: [LookingGlass/info] Resized mintupdate.py with normalized size (24x24px)
+Gtk-Message: 10:44:25.386: GtkDialog mapped without a transient parent. This is discouraged.
+Gtk-Message: 10:51:39.308: GtkDialog mapped without a transient parent. This is discouraged.
+Gtk-Message: 10:53:23.813: GtkDialog mapped without a transient parent. This is discouraged.
+Cjs-Message: 11:05:40.706: JS LOG: [LookingGlass/info] PlacesManager: Updating devices
+Nemo-Share-Message: 11:05:46.820: Called "net usershare info" but it failed: 'net usershare' returned error 255: mkdir failed on directory /var/run/samba/msg.lock: Permission denied
+net usershare: cannot open usershare directory /var/lib/samba/usershares. Error No such file or directory
+Please ask your system administrator to enable user sharing.
+
+Cjs-Message: 11:05:48.305: JS LOG: [LookingGlass/info] PlacesManager: Updating devices
+Cjs-Message: 11:07:47.327: JS LOG: [LookingGlass/info] PlacesManager: Updating devices
+Cjs-Message: 11:07:50.445: JS LOG: [LookingGlass/info] PlacesManager: Updating devices
+Nemo-Share-Message: 11:08:16.040: Called "net usershare info" but it failed: 'net usershare' returned error 255: mkdir failed on directory /var/run/samba/msg.lock: Permission denied
+net usershare: cannot open usershare directory /var/lib/samba/usershares. Error No such file or directory
+Please ask your system administrator to enable user sharing.
+
+Cjs-Message: 11:11:59.616: JS LOG: [LookingGlass/info] PlacesManager: Updating devices
+
+(csd-mouse:1118): Gdk-CRITICAL **: 11:12:09.722: gdk_error_trap_pop_internal: assertion 'trap != NULL' failed
+
+(csd-mouse:1118): Gdk-CRITICAL **: 11:12:09.724: gdk_error_trap_pop_internal: assertion 'trap != NULL' failed
+
+(csd-mouse:1118): Gdk-CRITICAL **: 11:12:09.724: gdk_error_trap_pop_internal: assertion 'trap != NULL' failed
+
+(csd-mouse:1118): Gdk-CRITICAL **: 11:12:09.742: gdk_error_trap_pop_internal: assertion 'trap != NULL' failed
+
+(csd-mouse:1118): Gdk-CRITICAL **: 11:12:09.752: gdk_error_trap_pop_internal: assertion 'trap != NULL' failed
+
+(csd-mouse:1118): Gdk-CRITICAL **: 11:12:09.776: gdk_error_trap_pop_internal: assertion 'trap != NULL' failed
+
+(csd-mouse:1118): Gdk-CRITICAL **: 11:12:09.793: gdk_error_trap_pop_internal: assertion 'trap != NULL' failed
+
+(csd-mouse:1118): Gdk-CRITICAL **: 11:12:09.816: gdk_error_trap_pop_internal: assertion 'trap != NULL' failed
+
+(csd-mouse:1118): Gdk-CRITICAL **: 11:12:09.826: gdk_error_trap_pop_internal: assertion 'trap != NULL' failed
+
+(csd-mouse:1118): Gdk-CRITICAL **: 11:12:09.842: gdk_error_trap_pop_internal: assertion 'trap != NULL' failed
+
+(csd-mouse:1118): Gdk-CRITICAL **: 11:12:09.852: gdk_error_trap_pop_internal: assertion 'trap != NULL' failed
+
+(csd-mouse:1118): Gdk-CRITICAL **: 11:12:09.867: gdk_error_trap_pop_internal: assertion 'trap != NULL' failed
+
+(csd-mouse:1118): Gdk-CRITICAL **: 11:12:09.892: gdk_error_trap_pop_internal: assertion 'trap != NULL' failed
+
+(csd-mouse:1118): Gdk-CRITICAL **: 11:12:09.917: gdk_error_trap_pop_internal: assertion 'trap != NULL' failed
+
+(csd-mouse:1118): Gdk-CRITICAL **: 11:12:09.926: gdk_error_trap_pop_internal: assertion 'trap != NULL' failed
+
+(csd-mouse:1118): Gdk-CRITICAL **: 11:12:09.950: gdk_error_trap_pop_internal: assertion 'trap != NULL' failed
+
+(csd-mouse:1118): Gdk-CRITICAL **: 11:12:09.965: gdk_error_trap_pop_internal: assertion 'trap != NULL' failed
+
+(csd-mouse:1118): Gdk-CRITICAL **: 11:12:09.975: gdk_error_trap_pop_internal: assertion 'trap != NULL' failed
+Cjs-Message: 11:12:33.819: JS LOG: [LookingGlass/info] PlacesManager: Updating devices
+Gtk-Message: 11:20:19.797: GtkDialog mapped without a transient parent. This is discouraged.
+polkit-agent-helper-1: pam_authenticate failed: Authentication failure
+polkit-agent-helper-1: pam_authenticate failed: Authentication failure
+Cinnamon warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x660658b (python.exe)
+Nemo-Share-Message: 11:34:28.004: Called "net usershare info" but it failed: 'net usershare' returned error 255: mkdir failed on directory /var/run/samba/msg.lock: Permission denied
+net usershare: cannot open usershare directory /var/lib/samba/usershares. Error No such file or directory
+Please ask your system administrator to enable user sharing.
+
+Nemo-Share-Message: 11:45:02.719: Called "net usershare info" but it failed: 'net usershare' returned error 255: mkdir failed on directory /var/run/samba/msg.lock: Permission denied
+net usershare: cannot open usershare directory /var/lib/samba/usershares. Error No such file or directory
+Please ask your system administrator to enable user sharing.
+
+Nemo-Share-Message: 12:14:36.659: Called "net usershare info" but it failed: 'net usershare' returned error 255: mkdir failed on directory /var/run/samba/msg.lock: Permission denied
+net usershare: cannot open usershare directory /var/lib/samba/usershares. Error No such file or directory
+Please ask your system administrator to enable user sharing.
+

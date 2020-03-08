@@ -1,0 +1,188 @@
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/vladmed/.Xauthority
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting LC_MEASUREMENT=ru_RU.UTF-8
+dbus-update-activation-environment: setting LC_PAPER=ru_RU.UTF-8
+dbus-update-activation-environment: setting LC_MONETARY=ru_RU.UTF-8
+dbus-update-activation-environment: setting LANG=en_US.UTF-8
+dbus-update-activation-environment: setting GDM_LANG=en_US
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting MANDATORY_PATH=/usr/share/gconf/cinnamon.mandatory.path
+dbus-update-activation-environment: setting LC_NAME=ru_RU.UTF-8
+dbus-update-activation-environment: setting XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/vladmed
+dbus-update-activation-environment: setting USER=vladmed
+dbus-update-activation-environment: setting DESKTOP_SESSION=cinnamon
+dbus-update-activation-environment: setting DEFAULTS_PATH=/usr/share/gconf/cinnamon.default.path
+dbus-update-activation-environment: setting PWD=/home/vladmed
+dbus-update-activation-environment: setting HOME=/home/vladmed
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/cinnamon:/usr/share/gnome:/home/vladmed/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share
+dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=cinnamon
+dbus-update-activation-environment: setting LC_ADDRESS=ru_RU.UTF-8
+dbus-update-activation-environment: setting LC_NUMERIC=ru_RU.UTF-8
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+dbus-update-activation-environment: setting IM_CONFIG_PHASE=1
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting SHLVL=1
+dbus-update-activation-environment: setting LANGUAGE=en_US
+dbus-update-activation-environment: setting LC_TELEPHONE=ru_RU.UTF-8
+dbus-update-activation-environment: setting GDMSESSION=cinnamon
+dbus-update-activation-environment: setting LOGNAME=vladmed
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1000
+dbus-update-activation-environment: setting XAUTHORITY=/home/vladmed/.Xauthority
+dbus-update-activation-environment: setting XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0
+dbus-update-activation-environment: setting XDG_CONFIG_DIRS=/etc/xdg/xdg-cinnamon:/etc/xdg
+dbus-update-activation-environment: setting PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games
+dbus-update-activation-environment: setting LC_IDENTIFICATION=ru_RU.UTF-8
+dbus-update-activation-environment: setting _=/usr/bin/dbus-update-activation-environment
+** Message: 09:00:55.126: couldn't access control socket: /run/user/1000/keyring/control: No such file or directory
+** Message: 09:00:55.126: couldn't access control socket: /run/user/1000/keyring/control: No such file or directory
+** Message: 09:00:55.127: couldn't access control socket: /run/user/1000/keyring/control: No such file or directory
+[cinnamon-settings-daemon-smartcard] Failed to start: no suitable smartcard driver could be found
+
+(csd-mouse:1027): Gdk-CRITICAL **: 09:00:55.357: gdk_error_trap_pop_internal: assertion 'trap != NULL' failed
+
+(csd-mouse:1027): Gdk-CRITICAL **: 09:00:55.445: gdk_error_trap_pop_internal: assertion 'trap != NULL' failed
+
+(csd-mouse:1027): Gdk-CRITICAL **: 09:00:55.447: gdk_error_trap_pop_internal: assertion 'trap != NULL' failed
+
+(csd-mouse:1027): Gdk-CRITICAL **: 09:00:55.447: gdk_error_trap_pop_internal: assertion 'trap != NULL' failed
+
+(csd-mouse:1027): Gdk-CRITICAL **: 09:00:55.448: gdk_error_trap_pop_internal: assertion 'trap != NULL' failed
+
+(csd-mouse:1027): Gdk-CRITICAL **: 09:00:55.448: gdk_error_trap_pop_internal: assertion 'trap != NULL' failed
+
+(csd-mouse:1027): Gdk-CRITICAL **: 09:00:55.448: gdk_error_trap_pop_internal: assertion 'trap != NULL' failed
+
+(csd-mouse:1027): Gdk-CRITICAL **: 09:00:55.448: gdk_error_trap_pop_internal: assertion 'trap != NULL' failed
+
+(csd-mouse:1027): Gdk-CRITICAL **: 09:00:55.449: gdk_error_trap_pop_internal: assertion 'trap != NULL' failed
+
+(csd-mouse:1027): Gdk-CRITICAL **: 09:00:55.449: gdk_error_trap_pop_internal: assertion 'trap != NULL' failed
+
+(csd-mouse:1027): Gdk-CRITICAL **: 09:00:55.449: gdk_error_trap_pop_internal: assertion 'trap != NULL' failed
+
+(csd-mouse:1027): Gdk-CRITICAL **: 09:00:55.449: gdk_error_trap_pop_internal: assertion 'trap != NULL' failed
+
+(csd-mouse:1027): Gdk-CRITICAL **: 09:00:55.449: gdk_error_trap_pop_internal: assertion 'trap != NULL' failed
+
+(csd-mouse:1027): Gdk-CRITICAL **: 09:00:55.449: gdk_error_trap_pop_internal: assertion 'trap != NULL' failed
+
+(csd-mouse:1027): Gdk-CRITICAL **: 09:00:55.450: gdk_error_trap_pop_internal: assertion 'trap != NULL' failed
+
+(csd-mouse:1027): Gdk-CRITICAL **: 09:00:55.451: gdk_error_trap_pop_internal: assertion 'trap != NULL' failed
+
+(csd-mouse:1027): Gdk-CRITICAL **: 09:00:55.451: gdk_error_trap_pop_internal: assertion 'trap != NULL' failed
+
+(csd-mouse:1027): Gdk-CRITICAL **: 09:00:55.454: gdk_error_trap_pop_internal: assertion 'trap != NULL' failed
+[cinnamon-settings-daemon-smartcard] Failed to start: no suitable smartcard driver could be found
+
+(csd-mouse:1027): Gdk-CRITICAL **: 09:00:55.598: gdk_error_trap_pop_internal: assertion 'trap != NULL' failed
+
+(csd-mouse:1027): Gdk-CRITICAL **: 09:00:55.598: gdk_error_trap_pop_internal: assertion 'trap != NULL' failed
+
+(csd-mouse:1027): Gdk-CRITICAL **: 09:00:55.668: gdk_error_trap_pop_internal: assertion 'trap != NULL' failed
+
+(csd-mouse:1027): Gdk-CRITICAL **: 09:00:55.668: gdk_error_trap_pop_internal: assertion 'trap != NULL' failed
+
+(csd-mouse:1027): Gdk-CRITICAL **: 09:00:55.668: gdk_error_trap_pop_internal: assertion 'trap != NULL' failed
+
+(csd-mouse:1027): Gdk-CRITICAL **: 09:00:55.668: gdk_error_trap_pop_internal: assertion 'trap != NULL' failed
+
+(csd-mouse:1027): Gdk-CRITICAL **: 09:00:55.668: gdk_error_trap_pop_internal: assertion 'trap != NULL' failed
+
+(csd-mouse:1027): Gdk-CRITICAL **: 09:00:55.669: gdk_error_trap_pop_internal: assertion 'trap != NULL' failed
+Clutter-Message: 09:00:57.492: Sync method: PRESENTATION TIME
+
+(nm-applet:1317): Gtk-WARNING **: 09:00:57.697: Can't set a parent on widget which has a parent
+Cjs-Message: 09:00:57.800: JS LOG: About to start Cinnamon
+** Message: 09:00:57.876: nemo-desktop: session is cinnamon, establishing proxy
+Cjs-Message: 09:00:57.881: JS LOG: [LookingGlass/info] Cinnamon.AppSystem.get_default() started in 80 ms
+Cjs-Message: 09:00:57.888: JS LOG: [LookingGlass/info] loading user theme: /usr/share/themes/Mint-Y-Dark/cinnamon/cinnamon.css
+Cjs-Message: 09:00:57.906: JS LOG: [LookingGlass/info] added icon directory: /usr/share/themes/Mint-Y-Dark/cinnamon
+Cjs-Message: 09:00:58.047: JS LOG: [LookingGlass/info] PlacesManager: Updating devices
+Cjs-Message: 09:00:58.060: JS LOG: [LookingGlass/info] loaded at Sun Mar 08 2020 09:00:58 GMT+0300 (MSK)
+Cjs-Message: 09:00:58.060: JS LOG: Cinnamon started at Sun Mar 08 2020 09:00:58 GMT+0300 (MSK)
+Cjs-Message: 09:00:58.092: JS LOG: [LookingGlass/info] ExtensionSystem started in 2 ms
+Cjs-Message: 09:00:58.092: JS LOG: [LookingGlass/info] DeskletManager started in 0 ms
+Cjs-Message: 09:00:58.092: JS LOG: [LookingGlass/info] SearchProviderManager started in 0 ms
+openGL version 4.3 detected (GL3 Cogl Driver)
+MetaSyncRing disabled: couldn't find required GL extensions, or the minimum safe openGL version was not met
+Cjs-Message: 09:00:58.182: JS LOG: [LookingGlass/info] Installing settings for show-desktop@cinnamon.org
+Cjs-Message: 09:00:58.183: JS LOG: [LookingGlass/info] Settings successfully installed for show-desktop@cinnamon.org
+Cjs-Message: 09:00:58.207: JS LOG: [LookingGlass/info] Loaded applet show-desktop@cinnamon.org in 34 ms
+Cjs-Message: 09:00:58.221: JS LOG: [LookingGlass/info] Loaded applet removable-drives@cinnamon.org in 14 ms
+St-Message: 09:00:58.223: cogl npot texture sizes SUPPORTED
+Cjs-Message: 09:00:58.239: JS LOG: [LookingGlass/info] Installing settings for calendar@cinnamon.org
+Cjs-Message: 09:00:58.239: JS LOG: [LookingGlass/info] Settings successfully installed for calendar@cinnamon.org
+Cjs-Message: 09:00:58.284: JS LOG: [LookingGlass/info] Loaded applet calendar@cinnamon.org in 64 ms
+Cjs-Message: 09:00:58.292: JS LOG: [LookingGlass/info] Installing settings for printers@cinnamon.org
+Cjs-Message: 09:00:58.292: JS LOG: [LookingGlass/info] Settings successfully installed for printers@cinnamon.org
+Cjs-Message: 09:00:58.306: JS LOG: [LookingGlass/info] Loaded applet printers@cinnamon.org in 22 ms
+Cjs-Message: 09:00:58.331: JS LOG: [LookingGlass/info] Loaded applet keyboard@cinnamon.org in 24 ms
+Cjs-Message: 09:00:58.338: JS LOG: [LookingGlass/info] Installing settings for notifications@cinnamon.org
+Cjs-Message: 09:00:58.338: JS LOG: [LookingGlass/info] Settings successfully installed for notifications@cinnamon.org
+Cjs-Message: 09:00:58.344: JS LOG: [LookingGlass/info] Role locked: notifications
+Cjs-Message: 09:00:58.368: JS LOG: [LookingGlass/info] Loaded applet notifications@cinnamon.org in 36 ms
+Cjs-Message: 09:00:58.398: JS LOG: [LookingGlass/info] Role locked: tray
+Cjs-Message: 09:00:58.401: JS LOG: [LookingGlass/info] Loaded applet systray@cinnamon.org in 32 ms
+Cjs-Message: 09:00:58.408: JS LOG: [LookingGlass/info] Installing settings for grouped-window-list@cinnamon.org
+Cjs-Message: 09:00:58.408: JS LOG: [LookingGlass/info] Settings successfully installed for grouped-window-list@cinnamon.org
+Cjs-Message: 09:00:58.423: JS LOG: [LookingGlass/info] Role locked: panellauncher
+Cjs-Message: 09:00:58.427: JS LOG: [LookingGlass/info] Loaded applet grouped-window-list@cinnamon.org in 26 ms
+Cjs-Message: 09:00:58.484: JS LOG: [LookingGlass/info] Installing settings for power@cinnamon.org
+Cjs-Message: 09:00:58.484: JS LOG: [LookingGlass/info] Settings successfully installed for power@cinnamon.org
+Cjs-Message: 09:00:58.505: JS LOG: [LookingGlass/info] Loaded applet power@cinnamon.org in 78 ms
+failed to create drawable
+
+(csd-power:1030): power-plugin-CRITICAL **: 09:00:58.543: abs_to_percentage: assertion 'max > min' failed
+Cjs-Message: 09:00:58.546: JS LOG: [LookingGlass/info] Installing settings for sound@cinnamon.org
+Cjs-Message: 09:00:58.547: JS LOG: [LookingGlass/info] Settings successfully installed for sound@cinnamon.org
+Cjs-Message: 09:00:58.600: JS LOG: [LookingGlass/info] Loaded applet sound@cinnamon.org in 96 ms
+Cjs-Message: 09:00:58.642: JS LOG: [LookingGlass/info] Loaded applet network@cinnamon.org in 42 ms
+Cjs-Message: 09:00:58.670: JS LOG: [LookingGlass/info] Installing settings for menu@cinnamon.org
+Cjs-Message: 09:00:58.670: JS LOG: [LookingGlass/info] Settings successfully installed for menu@cinnamon.org
+Cjs-Message: 09:00:58.842: JS LOG: [LookingGlass/info] Loaded applet menu@cinnamon.org in 200 ms
+Cjs-Message: 09:00:58.843: JS LOG: [LookingGlass/info] AppletManager started in 782 ms
+Cjs-Message: 09:00:58.847: JS LOG: [LookingGlass/info] Cinnamon took 1046 ms to start
+Cjs-Message: 09:00:58.879: JS LOG: Unknown network device type, is 14
+Cjs-Message: 09:00:59.160: JS LOG: [LookingGlass/info] Hiding systray: network
+/usr/share/cinnamon-screensaver/cinnamon-screensaver-main.py:86: Warning: g_base64_encode_step: assertion 'in != NULL' failed
+  css = provider.to_string()
+Cjs-Message: 09:01:17.798: JS LOG: [LookingGlass/info] Adding systray: mintupdate.py (24x24px)
+Cjs-Message: 09:01:17.799: JS LOG: [LookingGlass/info] Resized mintupdate.py with normalized size (24x24px)
+
+(nm-applet:1317): Gtk-CRITICAL **: 09:05:54.568: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1317): Gtk-CRITICAL **: 09:05:54.568: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1317): Gtk-WARNING **: 09:05:54.571: Can't set a parent on widget which has a parent
+Gtk-Message: 10:10:12.908: GtkDialog mapped without a transient parent. This is discouraged.
+Cinnamon warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x3800003 (Authentica)
+Cinnamon warning: Invalid WM_TRANSIENT_FOR window 0x4800007 specified for 0x480009b (Setup Wiza).
+Gtk-Message: 10:11:32.648: GtkDialog mapped without a transient parent. This is discouraged.
+Cjs-Message: 10:12:56.611: JS LOG: [LookingGlass/info] PlacesManager: Updating devices
+Cjs-Message: 10:13:00.577: JS LOG: [LookingGlass/info] PlacesManager: Updating devices
+Cjs-Message: 10:13:05.778: JS LOG: [LookingGlass/info] PlacesManager: Updating devices
+Cjs-Message: 10:13:14.465: JS LOG: [LookingGlass/info] Adding systray: mintupdate.py (24x24px)
+Cjs-Message: 10:13:14.466: JS LOG: [LookingGlass/info] Resized mintupdate.py with normalized size (24x24px)
+Gdk-Message: 10:14:11.238: cinnamon-session: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+Gdk-Message: 10:14:11.239: csd-keyboard: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+Gdk-Message: 10:14:11.239: csd-background: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+Gdk-Message: 10:14:11.239: csd-cursor: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+Gdk-Message: 10:14:11.241: csd-media-keys: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+Gdk-Message: 10:14:11.241: cinnamon: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+Gdk-Message: 10:14:11.242: csd-sound: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
